@@ -14,7 +14,6 @@ C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNin
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\EntityFramework.xml
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\Newtonsoft.Json.xml
-C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csproj.CopyComplete
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
@@ -28,3 +27,4 @@ C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNin
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\Mono.Cecil.Rocks.dll
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\nunit.framework.dll
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.csprojAssemblyReference.cache

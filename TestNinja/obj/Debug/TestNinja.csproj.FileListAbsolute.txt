@@ -20,8 +20,8 @@ C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNin
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
-C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\ehioghae.eseosa\Documents\Visual Studio 2017\Projects\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
