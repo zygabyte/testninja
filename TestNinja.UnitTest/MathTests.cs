@@ -24,6 +24,17 @@ namespace TestNinja.UnitTest
             
             Assert.That(result, Is.EqualTo(greatest));
         }
+        
+        [Test]
+        [TestCase(2, 3, 5)]
+        [TestCase(12, 10, 22)]
+        [Ignore("Not ready  to test this")]
+        public void Add_AddTwoNumbers_ReturnSum(int a, int b, int sum)
+        {
+            var result = _math.Add(a, b);
+            
+            Assert.That(result, Is.EqualTo(sum));
+        }
 
         [Test]
         public void GetOddNumbers_LimitGreaterThanZero_ReturnOddNumbersUpToLimit()
